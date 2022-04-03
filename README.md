@@ -1,30 +1,30 @@
-# README Generator 
+# Readme Gen
 
-  ##### [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  ##### [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ### TABLE OF CONTENTS:
-  #### -Description
-  #### -Installation
-  #### -Contribution Users
-  #### -Project Usage
-  #### -Tests
-  #### -Contact Me
+  #### [-Description](#project-description)
+  #### [-Installation](#installation-instructions)
+  #### [-Contributing Users](#contributing-users)
+  #### [-Project Usage](#project-usage)
+  #### [-Tests](#project-tests)
+  #### [-Contact Me](#contact-me)
   
 
   ## Project Description:
-  ##### This app creates a README for a user given information from user
+  ##### This app creates a readme for user after gathering information 
 
   ## Installation Instructions:
-  ##### User will need to install inquirer
+  ##### User must install inquirer
 
   ## Contributing users:
-  ##### None
+  ##### none
 
   ## Project Usage:
-  ##### Free to use
+  ##### Free
 
   ## Project Tests:
-  ##### 18
+  ##### n/a
 
   ## Contact Me:
-  #### https://github.com/toddbauer86 toddbauer@gmail.com
+  #### Github Profile: https://github.com/toddbauer86 Email Address: toddbauer@gmail.com
   

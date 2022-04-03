@@ -18,12 +18,12 @@ function generateMarkdown(data) {
 
   ##### ${renderLicenseBadge(data.license)}
   ### TABLE OF CONTENTS:
-  #### -Description
-  #### -Installation
-  #### -Contribution Users
-  #### -Project Usage
-  #### -Tests
-  #### -Contact Me
+  #### [-Description](#project-description)
+  #### [-Installation](#installation-instructions)
+  #### [-Contributing Users](#contributing-users)
+  #### [-Project Usage](#project-usage)
+  #### [-Tests](#project-tests)
+  #### [-Contact Me](#contact-me)
   
 
   ## Project Description:
@@ -42,7 +42,9 @@ function generateMarkdown(data) {
   ##### ${data.tests}
 
   ## Contact Me:
-  #### https://github.com/${data.username} ${data.email}
+  #### Github Profile: https://github.com/${data.username} Email Address: ${
+    data.email
+  }
   `;
 }
 

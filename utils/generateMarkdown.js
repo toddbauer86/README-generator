@@ -17,6 +17,14 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ##### ${renderLicenseBadge(data.license)}
+  ### TABLE OF CONTENTS:
+  #### -Description
+  #### -Installation
+  #### -Contribution Users
+  #### -Project Usage
+  #### -Tests
+  #### -Contact Me
+  
 
   ## Project Description:
   ##### ${data.description}
@@ -34,7 +42,7 @@ function generateMarkdown(data) {
   ##### ${data.tests}
 
   ## Contact Me:
-  #### ${data.username} ${data.email}
+  #### https://github.com/${data.username} ${data.email}
   `;
 }
 

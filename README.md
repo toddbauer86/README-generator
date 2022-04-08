@@ -1,6 +1,6 @@
-# Readme Gen
+# README Generator
 
-  ##### [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  ##### No License
   ### TABLE OF CONTENTS:
   #### [-Description](#project-description)
   #### [-Installation](#installation-instructions)
@@ -11,16 +11,16 @@
   
 
   ## Project Description:
-  ##### This app creates a readme for user after gathering information 
+  ##### This program generates a README file for a user after getting information through prompts. 
 
   ## Installation Instructions:
-  ##### User must install inquirer
+  ##### User must install inquirer.
 
   ## Contributing users:
   ##### none
 
   ## Project Usage:
-  ##### Free
+  ##### FREE
 
   ## Project Tests:
   ##### n/a
